@@ -1,0 +1,13 @@
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.csprojAssemblyReference.cache
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.AssemblyInfoInputs.cache
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.AssemblyInfo.cs
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.csproj.CoreCompileInputs.cache
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.exe
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.deps.json
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.runtimeconfig.json
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.runtimeconfig.dev.json
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.dll
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.pdb
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.dll
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.pdb
+C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.genruntimeconfig.cache
