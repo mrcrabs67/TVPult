@@ -42,6 +42,8 @@ namespace LearnMethod
             GetTVInfo(tvstat, ref tvinfo);
             Console.WriteLine(tvinfo);
 
+            //НУ чтож же, продолжим пилить это никому не нужно приложение дальше?
+
         }
 
         public static void GetTVInfo(bool tvstat, ref string tvinfo)

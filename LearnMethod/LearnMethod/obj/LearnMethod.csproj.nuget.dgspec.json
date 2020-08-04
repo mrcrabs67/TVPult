@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vs.ivashchenkov\\source\\repos\\LearnMethod\\LearnMethod\\LearnMethod.csproj": {}
+    "D:\\Git\\TVPult\\LearnMethod\\LearnMethod\\LearnMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vs.ivashchenkov\\source\\repos\\LearnMethod\\LearnMethod\\LearnMethod.csproj": {
+    "D:\\Git\\TVPult\\LearnMethod\\LearnMethod\\LearnMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vs.ivashchenkov\\source\\repos\\LearnMethod\\LearnMethod\\LearnMethod.csproj",
+        "projectUniqueName": "D:\\Git\\TVPult\\LearnMethod\\LearnMethod\\LearnMethod.csproj",
         "projectName": "LearnMethod",
-        "projectPath": "C:\\Users\\vs.ivashchenkov\\source\\repos\\LearnMethod\\LearnMethod\\LearnMethod.csproj",
-        "packagesPath": "C:\\Users\\vs.ivashchenkov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vs.ivashchenkov\\source\\repos\\LearnMethod\\LearnMethod\\obj\\",
+        "projectPath": "D:\\Git\\TVPult\\LearnMethod\\LearnMethod\\LearnMethod.csproj",
+        "packagesPath": "C:\\Users\\MrCra\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\TVPult\\LearnMethod\\LearnMethod\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vs.ivashchenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MrCra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
