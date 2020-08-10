@@ -54,5 +54,10 @@ namespace LearnMethod
             else tvinfo = "Off";
 
         }
+
+        public void Switch()    //В данном методе производятся основные операци.
+        {
+
+        }
     }
 }
