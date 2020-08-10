@@ -11,3 +11,16 @@ C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\bin\Debug\netcorea
 C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.dll
 C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.pdb
 C:\Users\vs.ivashchenkov\source\repos\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.genruntimeconfig.cache
+D:\Git\TVPult\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.csprojAssemblyReference.cache
+D:\Git\TVPult\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.AssemblyInfoInputs.cache
+D:\Git\TVPult\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.AssemblyInfo.cs
+D:\Git\TVPult\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.csproj.CoreCompileInputs.cache
+D:\Git\TVPult\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.dll
+D:\Git\TVPult\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.pdb
+D:\Git\TVPult\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.exe
+D:\Git\TVPult\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.deps.json
+D:\Git\TVPult\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.runtimeconfig.json
+D:\Git\TVPult\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.runtimeconfig.dev.json
+D:\Git\TVPult\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.dll
+D:\Git\TVPult\LearnMethod\LearnMethod\bin\Debug\netcoreapp3.1\LearnMethod.pdb
+D:\Git\TVPult\LearnMethod\LearnMethod\obj\Debug\netcoreapp3.1\LearnMethod.genruntimeconfig.cache
